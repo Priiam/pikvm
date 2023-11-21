@@ -1,6 +1,7 @@
 # pikvm
 
- * Boot error on systemD PIROOT disk label query
+### Boot error on systemD PIROOT disk label query
+
 As discussed in : https://github.com/pikvm/pikvm/issues/982
 A non-reactive system drive will cause the arch distribution to boot into the emergency shell.
 
